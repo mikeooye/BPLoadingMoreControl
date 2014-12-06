@@ -1,0 +1,14 @@
+PODS:
+  - BPLoadingMoreControl (0.1.0)
+
+DEPENDENCIES:
+  - BPLoadingMoreControl (from `../`)
+
+EXTERNAL SOURCES:
+  BPLoadingMoreControl:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BPLoadingMoreControl: 42e53ee2fc938fe342ebb7efa0c709e52693a6ca
+
+COCOAPODS: 0.35.0
